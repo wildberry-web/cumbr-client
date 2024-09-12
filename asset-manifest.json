@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cumbr-client/static/css/main.fa67319c.css",
+    "main.js": "/cumbr-client/static/js/main.7a7f1a2c.js",
+    "index.html": "/cumbr-client/index.html",
+    "main.fa67319c.css.map": "/cumbr-client/static/css/main.fa67319c.css.map",
+    "main.7a7f1a2c.js.map": "/cumbr-client/static/js/main.7a7f1a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa67319c.css",
+    "static/js/main.7a7f1a2c.js"
+  ]
+}
