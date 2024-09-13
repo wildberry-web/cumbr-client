@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cumbr-client/static/css/main.fa67319c.css",
-    "main.js": "/cumbr-client/static/js/main.1cf94fd1.js",
+    "main.css": "/cumbr-client/static/css/main.5a5822e8.css",
+    "main.js": "/cumbr-client/static/js/main.d28b5ae4.js",
     "index.html": "/cumbr-client/index.html",
-    "main.fa67319c.css.map": "/cumbr-client/static/css/main.fa67319c.css.map",
-    "main.1cf94fd1.js.map": "/cumbr-client/static/js/main.1cf94fd1.js.map"
+    "main.5a5822e8.css.map": "/cumbr-client/static/css/main.5a5822e8.css.map",
+    "main.d28b5ae4.js.map": "/cumbr-client/static/js/main.d28b5ae4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa67319c.css",
-    "static/js/main.1cf94fd1.js"
+    "static/css/main.5a5822e8.css",
+    "static/js/main.d28b5ae4.js"
   ]
 }
