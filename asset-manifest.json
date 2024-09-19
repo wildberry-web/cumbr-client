@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cumbr-client/static/css/main.294cfd12.css",
-    "main.js": "/cumbr-client/static/js/main.a4bd3ca1.js",
+    "main.css": "/cumbr-client/static/css/main.5cef5506.css",
+    "main.js": "/cumbr-client/static/js/main.e4ffc4b4.js",
     "static/media/cumb_photo.jpg": "/cumbr-client/static/media/cumb_photo.7ced87b0a177d9f7d58b.jpg",
     "static/media/coolcucumber.png": "/cumbr-client/static/media/coolcucumber.df82d92b7016a6219a1e.png",
     "static/media/cucumber.jpg": "/cumbr-client/static/media/cucumber.6cdd07edd449a31b0b89.jpg",
@@ -12,11 +12,11 @@
     "static/media/wallet.svg": "/cumbr-client/static/media/wallet.380d0d985414c4373fdbe544d364271b.svg",
     "index.html": "/cumbr-client/index.html",
     "static/media/copy.svg": "/cumbr-client/static/media/copy.c541a2b5890339ba15213ec405a0d46a.svg",
-    "main.294cfd12.css.map": "/cumbr-client/static/css/main.294cfd12.css.map",
-    "main.a4bd3ca1.js.map": "/cumbr-client/static/js/main.a4bd3ca1.js.map"
+    "main.5cef5506.css.map": "/cumbr-client/static/css/main.5cef5506.css.map",
+    "main.e4ffc4b4.js.map": "/cumbr-client/static/js/main.e4ffc4b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.294cfd12.css",
-    "static/js/main.a4bd3ca1.js"
+    "static/css/main.5cef5506.css",
+    "static/js/main.e4ffc4b4.js"
   ]
 }
